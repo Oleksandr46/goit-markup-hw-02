@@ -8,9 +8,7 @@ a {
 .body {
   font-family: "Roboto", sans-serif;
   background-color: #ffffff;
-  font-weight: 500;
   font-size: 16px;
-  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
@@ -67,13 +65,11 @@ a {
 }
 
 .titel-item {
-color: #2E2F42
-  font-size: 20px;
+  color: #2e2f42 font-size 20px;
   line-height: 1.2;
 }
 .text {
   font-weight: 400;
-
 }
 .section-3 {
   background: #f4f4fd;
@@ -87,22 +83,19 @@ color: #2E2F42
 
 .subject-item {
   font-weight: 400;
-
 }
 .subject-img {
   width: 264px;
   height: 260px;
 }
 .subject-titel {
-    color: #2E2F42
-  font-size: 20px;
+  color: #2e2f42 font-size 20px;
   line-height: 1.2;
   text-align: center;
 }
 .subject-text {
   font-weight: 400;
   text-align: center;
-
 }
 
 .heading {
