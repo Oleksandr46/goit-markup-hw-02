@@ -52,6 +52,7 @@ a {
   background-color: #2e2f42;
 }
 .page {
+  letter-spacing: 0.02em;
   color: #ffffff;
   font-weight: 700;
   font-size: 56px;
@@ -61,6 +62,7 @@ a {
 
 .buttom {
   letter-spacing: 0.04em;
+  font-weight: 500;
   line-height: 1.5;
   border-radius: 4px;
   padding: 16px 32px;
@@ -68,6 +70,7 @@ a {
   height: 56px;
   background: #4d5ae5;
   color: #ffffff;
+  cursor: pointer;
 }
 .buttom:hover,
 .buttom:focus {
@@ -75,7 +78,8 @@ a {
 }
 
 .titel-item {
-  color: #2e2f42 font-size 20px;
+  color: #2e2f42;
+  font-size: 20px;
   line-height: 1.2;
 }
 .text {
