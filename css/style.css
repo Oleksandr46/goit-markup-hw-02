@@ -54,8 +54,8 @@ a {
 }
 
 .buttom {
-    letter-spacing: 0.04em;
-    line-height: 1.5;
+  letter-spacing: 0.04em;
+  line-height: 1.5;
   border-radius: 4px;
   padding: 16px 32px;
   width: 169px;
@@ -97,9 +97,9 @@ a {
   height: 260px;
 }
 .subject-titel {
-    font-weight: 500;
+  font-weight: 500;
   color: #2e2f42;
-  font-size 20px;
+  font-size: 20px;
   line-height: 1.2;
   text-align: center;
 }
@@ -115,7 +115,7 @@ a {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
-  color: ##2e2f42;
+  color: #2e2f42;
 }
 
 .heading-titel {
