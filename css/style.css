@@ -11,6 +11,8 @@ a {
   font-size: 16px;
   letter-spacing: 0.02em;
   color: #434455;
+  font-weight: 500;
+  line-height: 1.2;
 }
 
 .logo {
@@ -52,6 +54,8 @@ a {
 }
 
 .buttom {
+    letter-spacing: 0.04em;
+    line-height: 1.5;
   border-radius: 4px;
   padding: 16px 32px;
   width: 169px;
@@ -75,21 +79,27 @@ a {
   background: #f4f4fd;
 }
 .subject {
+  letter-spacing: 0.02em;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
 }
 
 .subject-item {
   font-weight: 400;
+  background-color: #ffffff;
 }
 .subject-img {
   width: 264px;
   height: 260px;
 }
 .subject-titel {
-  color: #2e2f42 font-size 20px;
+    font-weight: 500;
+  color: #2e2f42;
+  font-size 20px;
   line-height: 1.2;
   text-align: center;
 }
@@ -99,10 +109,13 @@ a {
 }
 
 .heading {
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
+  color: ##2e2f42;
 }
 
 .heading-titel {
@@ -123,6 +136,7 @@ a {
 }
 
 .footer-text {
+  line-height: 1.5;
   font-weight: 400;
   color: #f4f4fd;
 }
