@@ -38,10 +38,13 @@ ol {
 
 .address {
   font-style: normal;
-  color: #434455;
 }
-.address:hover,
-.address:focus {
+.address-item {
+  color: #434455;
+  line-height: 1.5;
+}
+.address-info:hover,
+.address-info:focus {
   color: #404bbf;
 }
 
@@ -78,9 +81,11 @@ ol {
   color: #2e2f42;
   font-size: 20px;
   line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 .text {
   font-weight: 400;
+  line-height: 1.5;
 }
 .section-3 {
   background: #f4f4fd;
@@ -104,6 +109,7 @@ ol {
   height: 260px;
 }
 .subject-titel {
+  letter-spacing: 0.02em;
   font-weight: 500;
   color: #2e2f42;
   font-size: 20px;
@@ -111,6 +117,7 @@ ol {
   text-align: center;
 }
 .subject-text {
+  line-height: 1.5;
   font-weight: 400;
   text-align: center;
 }
