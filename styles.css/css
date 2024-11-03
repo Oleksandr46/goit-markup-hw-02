@@ -1,0 +1,78 @@
+.body {
+font-family: Roboto, Raleway;
+Weight: Regular;
+Size: 16px;
+Line Height: 24px;
+Letter Spacing: 2%;
+color: #434455;
+}
+.header {
+}
+.nav {
+}
+.header-logo {
+}
+.nav-list {
+}
+.nav-item {
+}
+.address {
+}
+.address-list {
+}
+.mail {
+}
+.tel {
+}
+.main {
+}
+.section-1 {
+}
+.page {
+}
+.buttom {
+}
+.section-2 {
+}
+.hidden {
+}
+.list {
+}
+.list-item {
+}
+.titel-item {
+}
+.text {
+}
+.subject {
+}
+.subject-list {
+}
+.subject-item {
+}
+.subject-img {
+}
+.subject-titel {
+}
+.subject-text {
+}
+.section-4 {
+}
+.heading {
+}
+.heading-list {
+}
+.heading-item {
+}
+.heading-img {
+}
+.heading-titel {
+}
+.heading-text {
+}
+.footer {
+}
+.footer-logo {
+}
+.footer-text {
+}
