@@ -1,43 +1,73 @@
-
-
+ul, ol {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
 .body {
-font-family: Roboto, Raleway;
+font-family: "Roboto","sans-serif";
 background-color: #FFFFFF;
+font-weight: 500;
 Weight: Regular;
-Size: 16px;
-Line Height: 24px;
+font-size: 16px;
+Line Height: 1.5;
 Letter Spacing: 2%;
-color: #434455;
+color: #2E2F42;
+
 }
 .header {
 }
 .header-nav {
 }
-.header-logo {
+.logo{
+font-family: "Raleway","sans-serif";
+font-weight: 700;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4D5AE5;}
+
+.logo-dark {
+    color: #2E2F42;
 }
+
 .headerv-list {
+
+
+
 }
 .header-item {
 }
-.address {
+.address {font-weight: 400;
+color: #434455;
 }
 .address-list {
 }
 .address-item {
 }
-.address-mail {
-}
-.address-tel {
-}
+
+
 .main {
 }
 .section-1 {
-    background-color: #2E2F42;
+background-color: #2E2F42;
+
+}
+.page {color: #FFFFFF;
+font-weight: 700;
+font-size: 56px;
+line-height: 1.07;
+letter-spacing: 0.02em;
+text-align: center;
+}
+
+.buttom {border-radius: 4px;
+padding: 16px 32px;
+width: 169px;
+height: 56px;
+background: #4D5AE5;
 color: #FFFFFF;
-}
-.page {
-}
-.buttom {
 }
 .section-2 {
 }
@@ -48,26 +78,54 @@ color: #FFFFFF;
 .list-item {
 }
 .titel-item {
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+
 }
-.text {
+.text {font-weight: 400;
+letter-spacing: 0.02em;
+color: #434455;
 }
-.section-3 {
+.section-3 {background: #F4F4FD;
 }
-.subject {
+.subject {font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-align: center;
+
+
 }
 .subject-list {
 }
-.subject-item {
+.subject-item {font-weight: 400;
+letter-spacing: 0.02em;
+color: #434455;
 }
-.subject-img {
+.subject-img {width: 264px;
+height: 260px;
 }
 .subject-titel {
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+text-align: center;
+
 }
-.subject-text {
+.subject-text {font-weight: 400;
+letter-spacing: 0.02em;
+text-align: center;
+color: #434455;
 }
 .section-4 {
 }
-.heading {
+.heading {font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-align: center;
+
 }
 .heading-list {
 }
@@ -76,12 +134,22 @@ color: #FFFFFF;
 .heading-img {
 }
 .heading-titel {
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;}
+
+.heading-text {font-weight: 400;
+letter-spacing: 0.02em;
 }
-.heading-text {
-}
-.footer {
+
+.footer { background: #2E2F42;
 }
 .footer-logo {
 }
-.footer-text {
+.logo-light {color: #F4F4FD;
+}
+
+.footer-text {font-weight: 400;
+letter-spacing: 0.02em;
+color: #F4F4FD;
 }
