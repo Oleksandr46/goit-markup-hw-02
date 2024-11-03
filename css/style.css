@@ -59,6 +59,7 @@
 }
 
 .buttom {
+  letter-spacing: 0.04em;
   font-weight: 500;
   line-height: 1.5;
   border-radius: 4px;
