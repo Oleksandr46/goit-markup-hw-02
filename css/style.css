@@ -29,7 +29,6 @@ ol {
   color: #2e2f42;
 }
 .header {
-  color: #434455;
 }
 .header-link {
   color: #2e2f42;
@@ -46,6 +45,7 @@ ol {
 
 .address-info {
   line-height: 1.5;
+  color: #434455;
 }
 .address-info:hover,
 .address-info:focus {
