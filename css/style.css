@@ -30,6 +30,8 @@ a {
 }
 .header-item {
   line-height: 1.5;
+}
+.header-link {
   color: #2e2f42;
 }
 .header-link:hover,
