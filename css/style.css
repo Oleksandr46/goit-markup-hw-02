@@ -28,13 +28,17 @@ a {
 .logo-dark {
   color: #2e2f42;
 }
-
+.header-item {
+  line-height: 1.5;
+  color: #2e2f42;
+}
 .header-link:hover,
 .header-link:focus {
   color: #404bbf;
 }
 
 .address {
+  font-style: normal;
   color: #434455;
 }
 .address:hover,
@@ -124,6 +128,7 @@ a {
 }
 
 .heading-text {
+  line-height: 1.5;
   font-weight: 400;
 }
 
