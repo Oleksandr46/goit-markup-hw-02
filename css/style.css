@@ -26,7 +26,9 @@ ol {
 .logo-dark {
   color: #2e2f42;
 }
-
+.header {
+  color: #434455;
+}
 .header-link {
   color: #2e2f42;
   line-height: 1.5;
@@ -39,7 +41,8 @@ ol {
 .address {
   font-style: normal;
 }
-.address-item {
+
+.address-info {
   color: #434455;
   line-height: 1.5;
 }
@@ -61,7 +64,6 @@ ol {
 }
 
 .buttom {
-  letter-spacing: 0.04em;
   font-weight: 500;
   line-height: 1.5;
   border-radius: 4px;
