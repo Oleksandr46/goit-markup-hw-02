@@ -46,7 +46,7 @@ color: #4D5AE5;}
 }
 .address-item {
 }
-.address {font-weight: 400;
+.address {
 color: #434455;
 }
 .address:hover,
