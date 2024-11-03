@@ -11,7 +11,7 @@ font-weight: 500;
 Weight: Regular;
 font-size: 16px;
 Line Height: 1.5;
-Letter Spacing: 2%;
+letter-spacing: 0.02em;
 color: #2E2F42;
 
 }
@@ -32,22 +32,25 @@ color: #4D5AE5;}
     color: #2E2F42;
 }
 
-.headerv-list {
-
-
-
+.header-list {
 }
+
 .header-item {
+    
 }
-.address {font-weight: 400;
-color: #434455;
-}
+.header-link:hover,
+.header-link:focus{color: #404BBF;}
+
+
 .address-list {
 }
 .address-item {
 }
-
-
+.address {font-weight: 400;
+color: #434455;
+}
+.address:hover,
+.address:focus{color: #404BBF;}
 .main {
 }
 .section-1 {
@@ -58,7 +61,6 @@ background-color: #2E2F42;
 font-weight: 700;
 font-size: 56px;
 line-height: 1.07;
-letter-spacing: 0.02em;
 text-align: center;
 }
 
@@ -69,6 +71,8 @@ height: 56px;
 background: #4D5AE5;
 color: #FFFFFF;
 }
+.buttom:hover,
+.buttom:focus{background: #404BBF;}
 .section-2 {
 }
 .hidden {
@@ -80,11 +84,9 @@ color: #FFFFFF;
 .titel-item {
 font-size: 20px;
 line-height: 1.2;
-letter-spacing: 0.02em;
 
 }
 .text {font-weight: 400;
-letter-spacing: 0.02em;
 color: #434455;
 }
 .section-3 {background: #F4F4FD;
@@ -92,7 +94,6 @@ color: #434455;
 .subject {font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
-letter-spacing: 0.02em;
 text-align: center;
 
 
@@ -100,7 +101,6 @@ text-align: center;
 .subject-list {
 }
 .subject-item {font-weight: 400;
-letter-spacing: 0.02em;
 color: #434455;
 }
 .subject-img {width: 264px;
@@ -109,12 +109,10 @@ height: 260px;
 .subject-titel {
 font-size: 20px;
 line-height: 1.2;
-letter-spacing: 0.02em;
 text-align: center;
 
 }
 .subject-text {font-weight: 400;
-letter-spacing: 0.02em;
 text-align: center;
 color: #434455;
 }
@@ -123,7 +121,6 @@ color: #434455;
 .heading {font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
-letter-spacing: 0.02em;
 text-align: center;
 
 }
@@ -136,10 +133,9 @@ text-align: center;
 .heading-titel {
 font-size: 20px;
 line-height: 1.2;
-letter-spacing: 0.02em;}
+}
 
 .heading-text {font-weight: 400;
-letter-spacing: 0.02em;
 }
 
 .footer { background: #2E2F42;
@@ -150,6 +146,5 @@ letter-spacing: 0.02em;
 }
 
 .footer-text {font-weight: 400;
-letter-spacing: 0.02em;
 color: #F4F4FD;
 }
