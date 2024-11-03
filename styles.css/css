@@ -1,5 +1,8 @@
+
+
 .body {
 font-family: Roboto, Raleway;
+background-color: #FFFFFF;
 Weight: Regular;
 Size: 16px;
 Line Height: 24px;
@@ -8,25 +11,29 @@ color: #434455;
 }
 .header {
 }
-.nav {
+.header-nav {
 }
 .header-logo {
 }
-.nav-list {
+.headerv-list {
 }
-.nav-item {
+.header-item {
 }
 .address {
 }
 .address-list {
 }
-.mail {
+.address-item {
 }
-.tel {
+.address-mail {
+}
+.address-tel {
 }
 .main {
 }
 .section-1 {
+    background-color: #2E2F42;
+color: #FFFFFF;
 }
 .page {
 }
@@ -43,6 +50,8 @@ color: #434455;
 .titel-item {
 }
 .text {
+}
+.section-3 {
 }
 .subject {
 }
