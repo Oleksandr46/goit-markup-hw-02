@@ -37,15 +37,10 @@ ol {
   color: #404bbf;
 }
 
-.address {
-  font-style: normal;
-}
-
 .address-info {
   line-height: 1.5;
   color: #434455;
   letter-spacing: 0.02em;
-  font-weight: 400;
 }
 .address-info:hover,
 .address-info:focus {
@@ -64,7 +59,6 @@ ol {
   text-align: center;
 }
 .buttom {
-  cursor: pointer;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
@@ -85,7 +79,7 @@ ol {
 }
 .text {
   letter-spacing: 0.02em;
-  font-weight: 400;
+
   line-height: 1.5;
 }
 .section-three {
@@ -119,7 +113,7 @@ ol {
 .subject-text {
   letter-spacing: 0.02em;
   line-height: 1.5;
-  font-weight: 400;
+
   text-align: center;
 }
 
@@ -144,7 +138,6 @@ ol {
 .heading-text {
   letter-spacing: 0.02em;
   line-height: 1.5;
-  font-weight: 400;
 }
 
 .footer {
@@ -158,6 +151,6 @@ ol {
 .footer-text {
   letter-spacing: 0.02em;
   line-height: 1.5;
-  font-weight: 400;
+
   color: #f4f4fd;
 }
