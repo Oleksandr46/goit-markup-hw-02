@@ -1,10 +1,3 @@
-a {
-  text-decoration: none;
-}
-ul,
-ol {
-  list-style: none;
-}
 .body {
   font-family: "Roboto", sans-serif;
   background-color: #ffffff;
@@ -14,7 +7,13 @@ ol {
   font-weight: 500;
   line-height: 1.2;
 }
-
+a {
+  text-decoration: none;
+}
+ul,
+ol {
+  list-style: none;
+}
 .logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -28,8 +27,7 @@ ol {
 .logo-dark {
   color: #2e2f42;
 }
-.header {
-}
+
 .header-link {
   color: #2e2f42;
   line-height: 1.5;
@@ -45,7 +43,6 @@ ol {
 
 .address-info {
   line-height: 1.5;
-  color: #434455;
 }
 .address-info:hover,
 .address-info:focus {
@@ -56,7 +53,6 @@ ol {
   background-color: #2e2f42;
 }
 .page {
-  letter-spacing: 0.02em;
   color: #ffffff;
   font-weight: 700;
   font-size: 56px;
@@ -66,7 +62,7 @@ ol {
 
 .buttom {
   letter-spacing: 0.04em;
-  font-weight: 500;
+
   line-height: 1.5;
   border-radius: 4px;
   padding: 16px 32px;
@@ -82,11 +78,8 @@ ol {
 }
 
 .titel-item {
-  font-weight: 500;
   color: #2e2f42;
   font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
 }
 .text {
   font-weight: 400;
@@ -96,7 +89,6 @@ ol {
   background: #f4f4fd;
 }
 .subject {
-  letter-spacing: 0.02em;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -114,11 +106,9 @@ ol {
   height: 260px;
 }
 .subject-titel {
-  letter-spacing: 0.02em;
-  font-weight: 500;
   color: #2e2f42;
   font-size: 20px;
-  line-height: 1.2;
+
   text-align: center;
 }
 .subject-text {
@@ -128,7 +118,6 @@ ol {
 }
 
 .heading {
-  letter-spacing: 0.02em;
   text-transform: capitalize;
   font-weight: 700;
   font-size: 36px;
@@ -138,10 +127,8 @@ ol {
 }
 
 .heading-titel {
-  letter-spacing: 0.02em;
-  font-weight: 500;
   font-size: 20px;
-  line-height: 1.2;
+
   color: #2e2f42;
 }
 
