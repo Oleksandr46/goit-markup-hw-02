@@ -92,6 +92,9 @@ ol {
 .section-three {
   background: #f4f4fd;
 }
+.subject-item {
+  background-color: #ffffff;
+}
 .subject {
   letter-spacing: 0.02em;
   font-weight: 700;
