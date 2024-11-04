@@ -52,7 +52,6 @@ ol {
 
 .section-one {
   background-color: #2e2f42;
-  font-weight: 500;
 }
 .page {
   letter-spacing: 0.02em;
@@ -65,7 +64,7 @@ ol {
 
 .buttom {
   letter-spacing: 0.04em;
-
+  font-weight: 500;
   line-height: 1.5;
   border-radius: 4px;
   padding: 16px 32px;
@@ -79,11 +78,10 @@ ol {
 .buttom:focus {
   background: #404bbf;
 }
-.section-two {
+
+.titel-item {
   font-weight: 500;
   letter-spacing: 0.02em;
-}
-.titel-item {
   color: #2e2f42;
   font-size: 20px;
 }
@@ -93,10 +91,9 @@ ol {
 }
 .section-three {
   background: #f4f4fd;
-  font-weight: 500;
-  letter-spacing: 0.02em;
 }
 .subject {
+  letter-spacing: 0.02em;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -105,17 +102,13 @@ ol {
   color: #2e2f42;
 }
 
-.subject-item {
-  font-weight: 500;
-  letter-spacing: 0.02em;
-  font-weight: 400;
-  background-color: #ffffff;
-}
 .subject-img {
   width: 264px;
   height: 260px;
 }
 .subject-titel {
+  font-weight: 500;
+  letter-spacing: 0.02em;
   color: #2e2f42;
   font-size: 20px;
 
@@ -126,11 +119,9 @@ ol {
   font-weight: 400;
   text-align: center;
 }
-.section-four {
-  font-weight: 500;
-  letter-spacing: 0.02em;
-}
+
 .heading {
+  letter-spacing: 0.02em;
   text-transform: capitalize;
   font-weight: 700;
   font-size: 36px;
@@ -141,6 +132,8 @@ ol {
 
 .heading-titel {
   font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0.02em;
 
   color: #2e2f42;
 }
